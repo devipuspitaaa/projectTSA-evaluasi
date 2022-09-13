@@ -9,8 +9,8 @@
                 <div class="col-lg-3 logo_section">
                     <div class="full">
                         <div class="center-desk">
-                            <div class="logo">
-                                <a href="{{'/'}}"><img src="images/logo1.png" alt="#"></a>
+                            <div class="logo" style="width:1000px;">
+                                <a href="{{'/'}}"><img src="images/music.png" alt="#" style="margin-left:-500px; width:150px; height:150px;">MuFi is Your Mood</a>
                             </div>
                         </div>
                     </div>
