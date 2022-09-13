@@ -6,7 +6,7 @@
                      <div class="row">
                         <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12">
 
-                           <img class="logo1" src="images/logo1.png" />
+                           <img class="logo1" src="images/music.png" style="widht:200px; height:200px;"/>
                         </div>
 
                         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
@@ -36,18 +36,18 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="new">
-                                    <h3>Kelurahan Madiun Lor</h3>
+                                    <h3>MoFi (Music & Film)</h3>
                                     <form class="newtetter">
-                                        <input class="tetter" placeholder="Berita" type="text" name="Your email">
+                                        <input class="tetter" placeholder="Music & Film" type="text" name="Your email">
                                         <button class="submit">Search</button>
                                     </form>
                                 </div>
                             </div>
                             <div class="col-md-12">
                                 <div class="newtt">
-                                    <p>Website Kelurahan Madiun Lor di develop dengan tujuan 
-                                        untuk mempermudah penyebaran informasi yang mampu menjangkau
-                                        <br> seluruh lapisan masyarakat
+                                    <p>Website MoFi di develop dengan tujuan 
+                                        untuk mempermudah Anda dalam mendapatkan informasi terkait
+                                        <br> music dan film.
                                     </p>
                                 </div>
                             </div>
