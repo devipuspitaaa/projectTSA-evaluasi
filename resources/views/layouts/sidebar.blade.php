@@ -12,14 +12,14 @@
             <li> <a href="{{('/about')}}">About</a></li>
             
             <li class="menu-item-has-children dropdown">
-                        <a href="" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-newspaper-o"></i>Layanan Publik</a>
+                        <a href="" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i class="menu-icon fa fa-newspaper-o"></i>Kategori</a>
                         <ul class="sub-menu children dropdown-menu" style="margin-left:-20px; width: 500px; height: 1100px;">
-        <li> <a href="layanankk">
-            Kartu Keluarga
+        <li> <a href="movie">
+            Movie
           </a>
         </li>
-        <li> <a href="layananktp">
-            Kartu Tanda Penduduk
+        <li> <a href="music">
+            Music
           </a>
         </li>
       </ul>
