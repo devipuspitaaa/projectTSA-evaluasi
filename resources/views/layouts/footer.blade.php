@@ -56,7 +56,7 @@
                     </div>
 
                     <div class="copyright">
-                        <p>Copyright 2019 <a href="https://html.design/">Kelurahan Madiun Lor</a>
+                        <p>Copyright 2022 <a href="https://html.design/">Music and Film Our Mood</a>
                         </p>
                     </div>
 
